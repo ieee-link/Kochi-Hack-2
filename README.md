@@ -1,5 +1,4 @@
-# Hack Kochi #2
-The second edition of Hack Kochi, by IEEE Kochi Hub and IEEE LINK
+# Problem Statement
 
 In this hackathon you get to build a simple chat application that follows the [pub/sub methodology](https://aws.amazon.com/pub-sub-messaging/). You can use [Firebase](https://firebase.google.com) or any other database of your liking.
 The backend for the website should be preferably in [firebase functions](https://firebase.google.com/docs/functions) or [node.js](https://nodejs.org) with JS(JavaScript). The application is supposed to process real-time requests, concurrently from atleast 500 users. 
